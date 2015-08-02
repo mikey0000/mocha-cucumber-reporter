@@ -1,0 +1,19 @@
+{
+  "name": "mocha-cucumber-reporter",
+  "version": "1.0.0",
+  "description": "command line reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikey0000/mocha-cucumber-reporter.git"
+  },
+  "author": "Michael Arthur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikey0000/mocha-cucumber-reporter/issues"
+  },
+  "homepage": "https://github.com/mikey0000/mocha-cucumber-reporter#readme"
+}
